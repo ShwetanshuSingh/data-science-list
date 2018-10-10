@@ -177,7 +177,7 @@ The following section serves as a guide-book to get familiar and started on vari
 			- [Probability and Statistics Cookbook](http://statistics.zone)
 			- [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 			- [Statistics Done Wrong by Alex Reinhart](http://www.statisticsdonewrong.com)
-			- [Statistical Learning with Sparsity: The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, and Martin Wainwright]
+			- [Statistical Learning with Sparsity: The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, and Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity/)
 			- [StatLect](https://www.statlect.com/)
 			- [StatSoft](http://www.statsoft.com/Textbook)
 			- [The Little Handbook of Statistical Practice by Gerard E. Dallal, Ph.D](http://www.jerrydallal.com/LHSP/LHSP.htm)
