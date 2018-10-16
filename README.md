@@ -1,9 +1,37 @@
 The following section serves as a guide-book to get familiar and started on various technologies and tools in the Data Science space.
 
 - Blogs
+	- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+	- [Becoming a Data Scientist](https://www.becomingadatascientist.com/)
+	- [Data Mining Research](http://www.dataminingblog.com/)
 	- [Data Science Central](https://www.datasciencecentral.com/)
+	- [Data Science Report](http://datasciencereport.com/)
+	- [Data Science Weekly](https://www.datascienceweekly.org/)
+	- [Data Science @ Berkeley](https://datascience.berkeley.edu/)
+	- [Dataconomy](http://dataconomy.com/)
+	- [Datafloq](https://datafloq.com/)
+	- [Datatau](http://www.datatau.com/)
+	- [DBMS2](http://www.dbms2.com/)
+	- [Domino Data Science Blog](https://blog.dominodatalab.com/)
+	- [Edwin Chen’s Blog](http://blog.echen.me/)
+	- [FastML](http://fastml.com/)
+	- [FiveThirtyEight](https://fivethirtyeight.com/)
 	- [Flowing Data](http://flowingdata.com/)
+	- [Hilary Mason’s Blog](https://hilarymason.com/)
+	- [Insight](https://blog.insightdatascience.com/)
+	- [KDnuggets](http://www.kdnuggets.com/)
+	- [Machine Learning (Theory)](http://hunch.net/)
+	- [No Free Hunch](http://blog.kaggle.com/)
+	- [O’Reilly on Our Radar](https://www.oreilly.com/ideas)
+	- [R Bloggers](https://www.r-bloggers.com/)
+	- [Simply Statistics](https://simplystatistics.org/)
+	- [Smart Data Collective](https://www.smartdatacollective.com/)
+	- [Statistical Modeling, Casual Inference, and Social Science](http://andrewgelman.com/)
 	- [Stats & Bots - Data stories on machine learning and analytics](https://blog.statsbot.co/)
+	- [Steve Miller’s Blog at Information Management](https://www.information-management.com/author/steve-miller-im1052295)
+	- [The Gradient Flow](https://gradientflow.com/)
+	- [Walking Randomly](http://www.walkingrandomly.com/)
+	- [What’s the Big Data?](https://whatsthebigdata.com/)
 - Books
 	- Concepts
 		- Databases
@@ -355,6 +383,18 @@ The following section serves as a guide-book to get familiar and started on vari
 		- [Data Skeptic](https://dataskeptic.com/podcast)
 		- [Linear Digressions](http://lineardigressions.com/)
 		- [Stats + Stories](http://www.cas.miamioh.edu/statsandstories/archives.html)
+- Talks
+	- TED
+		- [A Smarter, More Precise Way to Think About Public Health by Sue Desmond-Hellmann](https://www.ted.com/talks/sue_desmond_hellmann_a_smarter_more_precise_way_to_think_about_public_health?language=en)
+		- [Big Data is Better Data by Kenneth Cukier](https://www.ted.com/talks/kenneth_cukier_big_data_is_better_data)
+		- [How Data Will Transform Business by Philip Evans](https://www.ted.com/talks/philip_evans_how_data_will_transform_business?language=en)
+		- [How We Found the Worst Place to Park in New York City — Using Big Data by Ben Wellington](https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data)
+		- [The Human Insights Missing From Big Data by Tricia Wang](https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data?language=en)
+		- [The Rise of Human-Computer Cooperation by Shyam Sankar](https://www.ted.com/talks/shyam_sankar_the_rise_of_human_computer_cooperation?language=en)
+		- [What Do We Do With All This Big Data? by Susan Etlinger](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data?language=en)
+		- [What Will a Future Without Secrets Look Like? by Alessandro Acquisti](https://www.ted.com/talks/alessandro_acquisti_why_privacy_matters)
+		- [What’s the Next Window into Our Universe? by Andrew Connolly](https://www.ted.com/talks/andrew_connolly_what_s_the_next_window_into_our_universe?language=en)
+		- [Why Smart Statistics are the Key to Fighting Crime by Anne Milgram](https://www.ted.com/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime?language=en)
 - Tools
 	- [dataviz.tools (a curated guide to the best tools, resources and technologies for data visualization)](http://dataviz.tools/)
 	- [GitHub Desktop](https://help.github.com/desktop/guides/)
